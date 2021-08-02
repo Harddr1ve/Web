@@ -1,0 +1,25 @@
+h1 {
+    color: aqua;
+}
+header {
+    background-color: #adadad;
+    color: #adadad;
+    padding: auto;
+    padding-top: 0;
+    margin-top: 0;
+}
+
+.container {
+    width: 800px;
+    border-color: #cfcfcf;
+    border-width: 3px;
+    border-style: solid;
+}
+
+h2, h3 {
+    color: #116ca8;
+}
+
+html {
+    background-color: #252525;
+}
